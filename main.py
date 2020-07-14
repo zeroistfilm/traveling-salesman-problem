@@ -214,7 +214,7 @@ class GA:
 
 
 if __name__ == '__main__':
-    n_cities = 20
+    n_cities = 5
     population_size = 50
     n_generations = 100
 
