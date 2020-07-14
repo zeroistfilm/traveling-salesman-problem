@@ -214,9 +214,9 @@ class GA:
 
 
 if __name__ == '__main__':
-    n_cities = 5
+    n_cities = 30
     population_size = 50
-    n_generations = 100
+    n_generations = 1000
 
     random.seed(100)
 
